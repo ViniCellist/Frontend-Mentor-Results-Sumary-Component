@@ -94,24 +94,28 @@
     .container-summary {
         width: 50%;
         height: 100%;
-        
+        justify-content: space-evenly;
+
     }
         .container-summary__title {
             text-align: start;
-            font-size: 2rem;
+            font-size: 1.5rem;
         }
 
         .container-summary__content {
             width: 80%;
+            padding: 0 1rem 0 0;
+            margin: 2%;
         }
 
         .container__summary--flex {
             font-size: 1rem;
+            
         }
 
         .content-anchor {
-            padding: 1rem 8rem;
-            margin-top: 1rem;
+            padding: 1rem 30%;
+            margin-bottom: 0.5rem;
             font-size: 1.5rem;
         }
 
