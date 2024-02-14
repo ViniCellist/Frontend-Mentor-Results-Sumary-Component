@@ -69,4 +69,4 @@ Working to become a fullstack
 - GitHub - [Portfolio](https://github.com/ViniCellist)
 - Frontend Mentor - [Profile](https://www.frontendmentor.io/profile/ViniCellist)
 - Instagram - [Personal](https://www.instagram.com/vinicius_duartesd/)
-- LinkedIn - [Professional](https://www.linkedin.com/in/vinicius-de-souza-duarte-57937b192/)
+- LinkedIn - [Professional](https://www.linkedin.com/in/viniciussouzaduarte/)
